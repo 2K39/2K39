@@ -1,3 +1,3 @@
-- 👋 Hi, My name is ahmed yousif
-- 👀 I’m interested in python
-- 🌱 I’m currently learning web development for my flask app
+- Hi, My name is ahmed yousif
+- am 18 years old form Bharain
+- I’m interested in python and web development
